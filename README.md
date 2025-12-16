@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou Daniel Farney</h1>
 
 <h3>
-  🚀 ### Analista de Dados Júnior | Data Science | Python & SQL | IA
+  🚀 Analista de Dados Júnior | Data Science | Python & SQL | IA
 </h3>
 
 <br>
