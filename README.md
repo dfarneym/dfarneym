@@ -18,7 +18,7 @@ Após consolidar uma trajetória em suporte e infraestrutura de alta demanda, es
 
 Na prática, estou aplicando esses conceitos no **Hackathon Oracle One**, onde faço parte de uma equipe em um projeto de **Data Science** de **Análise de Sentimento**.
 
-Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, que inclui Bacharelado em **Sistemas de Informação**, Pós-Graduação em **Informática na Educação** e Especialização em **Data Science**.
+Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, que inclui Bacharelado em **Sistemas de Informação**, Pós-Graduação em **Informática na Educação** e Especialização em **Data Science**, .
 
 ---
 
@@ -60,9 +60,10 @@ Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, qu
 
 * **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
 * **Aperfeiçoamento em Analise de Dados** 
-* **Especialização em Data Science** 
+* **Especialização em Data Science**
+* 
 * **Bootcamp IA para Devs**
-* **Imersão Inteligência Artificial** 
+* **Imersão em Inteligência Artificial** 
 * **Linux Essentials & Cloud Fundamentals** 
 
 ---
