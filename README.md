@@ -16,7 +16,7 @@
 
 Após consolidar uma trajetória em suporte e infraestrutura de alta demanda, estou redirecionando minha expertise técnica para o mundo dos Dados. Meu foco atual é a **Engenharia de Dados e Analytics**, transformando problemas complexos em soluções escaláveis através de **Python, SQL e Inteligência Artificial**.
 
-Na prática, estou aplicando esses conceitos no **Hackathon Oracle One**, onde faço parte de uma equipe em um projeto de Data Scienceo de **Análise de Sentimento**.
+Na prática, estou aplicando esses conceitos no **Hackathon Oracle One**, onde faço parte de uma equipe em um projeto de **Data Science** de **Análise de Sentimento**.
 
 Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, que inclui Bacharelado em **Sistemas de Informação**, Pós-Graduação em **Informática na Educação** e Especialização em **Data Science**.
 
