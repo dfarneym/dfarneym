@@ -14,11 +14,11 @@
 
 ### 👨‍💻 Resumo Profissional
 
-Após consolidar uma trajetória em suporte e infraestrutura de alta demanda, estou redirecionando minha expertise técnica para o mundo dos Dados. Meu foco atual é a **Engenharia de Dados e Analytics**, transformando problemas complexos em soluções escaláveis através de **Python, SQL e Inteligência Artificial**.
+Após atuar em ambientes de suporte e infraestrutura de alta demanda, iniciei uma transição consciente para o universo dos Dados. Hoje, concentro meus esforços em Engenharia de Dados e Analytics, utilizando Python, SQL e Inteligência Artificial para transformar desafios complexos em soluções escaláveis e orientadas a dados.
 
-Na prática, estou aplicando esses conceitos no **Hackathon Oracle One**, onde faço parte de uma equipe em um projeto de **Data Science** de **Análise de Sentimento**.
+Tenho aplicado esses conhecimentos em projetos práticos, como no Hackathon Oracle One, atuando em um time de Data Science com foco em Análise de Sentimentos.
 
-Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, que inclui Bacharelado em **Sistemas de Informação**, Pós-Graduação em **Informática na Educação** e Especialização em **Data Science**, .
+Minha trajetória é respaldada por uma formação acadêmica sólida, com Bacharelado em Sistemas de Informação, Pós-Graduação em Informática na Educação e Especialização em Data Science.
 
 ---
 
