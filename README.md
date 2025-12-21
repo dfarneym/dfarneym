@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou Daniel Farney</h1>
 
 <h3>
-  🚀 Analista de Dados Júnior | Data Science | Python & SQL | IA
+  🚀 Engenhiro de Dados Júnior | machine learning (ML) |  IA  | Python
 </h3>
 
 <br>
@@ -61,7 +61,6 @@ Essa mudança de chave é apoiada por uma qualificação acadêmica rigorosa, qu
 * **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
 * **Aperfeiçoamento em Analise de Dados** 
 * **Especialização em Data Science**
-* 
 * **Bootcamp IA para Devs**
 * **Imersão em Inteligência Artificial** 
 * **Linux Essentials & Cloud Fundamentals** 
