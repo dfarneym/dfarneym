@@ -1,7 +1,7 @@
 <h1>👋 Olá, eu sou Daniel Farney</h1>
 
 <h3>
-  🚀 Engenhiro de Dados Júnior | machine learning (ML) |  IA  | Python
+  🚀 Engenhiro de Dados Júnior | Machine Learning (ML) |  IA  | Python
 </h3>
 
 <br>
