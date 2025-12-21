@@ -7,7 +7,7 @@
 <br>
 
 <p>
-  <i>Transformando dados em decisões estratégicas e garantindo a confiabilidade de infraestruturas complexas.</i>
+  <i>Transformo dados em insights estratégicos, com foco em qualidade, escalabilidade e confiabilidade de pipelines de dados.</i>
 </p>
 
 ---
